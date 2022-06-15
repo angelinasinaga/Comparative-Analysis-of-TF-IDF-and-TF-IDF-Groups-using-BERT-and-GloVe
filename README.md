@@ -21,5 +21,6 @@ Rigidity in finding information and a lot of noise are problems that often occur
 5. In contrast to the accuracy values in the Spam dataset in both models, the accuracy values from the Glove and GloveBERT models in the BBC News
    dataset are low.
 ## Evaluation
-![image](https://user-images.githubusercontent.com/60686944/173781962-6ad57097-5bd0-48df-a809-c215fe60bca3.png)
+![image](https://user-images.githubusercontent.com/60686944/173850143-4e14403a-99c5-4522-a710-097dcc7a2486.png)
+
 ## TF-IDF VS TF-IDF Group
