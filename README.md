@@ -13,14 +13,21 @@ Rigidity in finding information and a lot of noise are problems that often occur
 2. Grouping documents using Mini batch to clustering or grouping document. 
 3. Calculated cosine simiality to check similar from one document to another document.
 4. Conducted experiments on two sets of data sets, namely Spam and BBC News to compare the results of the two applied methods.
+
 ## Conclusion
-1. In the comparison of TF-IDF with TF-IDF Group the value of TF-IDF Group is higher than TF-IDF in the GloVe and GloVeBERT approach for Spam          datasets
-2. In the comparison of TF-IDF with TF-IDF Group the value of TF-IDF Group has the same value with only TF-IDF on the GloVe approach and the            GloVeBERT approach for the BBC News dataset
-3. Value Cosine Similarity in both datasets, is quite high, this indicates that one document is similar to another in the two datasets.
-4. Combining Glove with BERT has a decreasing effect on both the cosine simialrity value and the model accuracy value.
-5. In contrast to the accuracy values in the Spam dataset in both models, the accuracy values from the Glove and GloveBERT models in the BBC News
-   dataset are low.
+1. In the comparison of TF-IDF with TF-IDF Group, the value of TF-IDF Group is higher than TF-IDF in the GloVe and GloVeBERT approaches for the Spam dataset. 
+2. In the comparison of TF-IDF with TF-IDF Group the value of TF-IDF has the same value as TF-IDF Group on the GloVe approach and the GloVeBERT approach for the BBC News dataset. 
+3. The value of Cosine Similarity in both datasets is quite high, this indicates that one document has similarities to the other in both datasets. 
+4. Combining Glove with BERT has a decreasing effect on both the cosine similarity value and the model accuracy value. 
+5. Unlike the accuracy values in the Spam dataset in both models, the accuracy values from the Glove and GloveBERT models in the BBC News dataset are low.
+   
 ## Evaluation
 ![image](https://user-images.githubusercontent.com/60686944/173850143-4e14403a-99c5-4522-a710-097dcc7a2486.png)
 
 ## TF-IDF VS TF-IDF Group
+1. Spam Dataset
+![image](https://user-images.githubusercontent.com/60679993/173869488-3051c232-b323-487e-92f0-26f5fae48aa5.png)
+
+2. BBC-News Dataset
+![image](https://user-images.githubusercontent.com/60679993/173869735-32ee2652-1fd4-4840-8eca-8238cf4ed8a4.png)
+
