@@ -27,3 +27,6 @@ and TF-IDF Group, the third stage is applying the method used,thencalculate the 
 4. Combining Glove with BERT has a decreasing effect on both the cosine simialrity value and the model accuracy value.
 5. In contrast to the accuracy values in the Spam dataset in both models, the accuracy values from the Glove and GloveBERT models in the BBC News
    dataset are low.
+## Evaluation
+![image](https://user-images.githubusercontent.com/60686944/173781962-6ad57097-5bd0-48df-a809-c215fe60bca3.png)
+
