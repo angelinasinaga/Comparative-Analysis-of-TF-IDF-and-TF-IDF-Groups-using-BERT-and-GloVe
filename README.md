@@ -29,4 +29,4 @@ and TF-IDF Group, the third stage is applying the method used,thencalculate the 
    dataset are low.
 ## Evaluation
 ![image](https://user-images.githubusercontent.com/60686944/173781962-6ad57097-5bd0-48df-a809-c215fe60bca3.png)
-
+## TF-IDF VS TF-IDF Group
