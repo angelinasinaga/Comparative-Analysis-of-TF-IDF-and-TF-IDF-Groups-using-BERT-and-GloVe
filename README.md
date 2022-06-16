@@ -20,6 +20,8 @@ Rigidity in finding information and a lot of noise are problems that often occur
 3. The value of Cosine Similarity in both datasets is quite high, this indicates that one document has similarities to the other in both datasets. 
 4. Combining Glove with BERT has a decreasing effect on both the cosine similarity value and the model accuracy value. 
 5. Unlike the accuracy values in the Spam dataset in both models, the accuracy values from the Glove and GloveBERT models in the BBC News dataset are low.
-   
-
+## Evaluation on Spam Dataset  
+![image](https://user-images.githubusercontent.com/60686944/174050968-ec659970-cc5b-42ef-aef9-95d1c9cfc939.png)
+## Evaluation on BBC News  Dataset  
+![image](https://user-images.githubusercontent.com/60686944/174051076-db3ce4a2-57c3-4e3c-9519-7192822f7f6f.png)
 
