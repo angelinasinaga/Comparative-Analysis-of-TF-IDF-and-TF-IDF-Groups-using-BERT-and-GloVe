@@ -21,8 +21,5 @@ Rigidity in finding information and a lot of noise are problems that often occur
 4. Combining Glove with BERT has a decreasing effect on both the cosine similarity value and the model accuracy value. 
 5. Unlike the accuracy values in the Spam dataset in both models, the accuracy values from the Glove and GloveBERT models in the BBC News dataset are low.
    
-## Evaluation
 
-
-## TF-IDF VS TF-IDF Group
 
